@@ -1,0 +1,63 @@
+Uruchamianie pliku testowego: TestDragDropMenu.py
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.649s
+
+OK
+Plik testowy TestDragDropMenu.py został pomyślnie wykonany.
+Uruchamianie pliku testowego: TestEditFlashCardMenu.py
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.727s
+
+OK
+Plik testowy TestEditFlashCardMenu.py został pomyślnie wykonany.
+Uruchamianie pliku testowego: TestEditSetMenu.py
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.639s
+
+OK
+Plik testowy TestEditSetMenu.py został pomyślnie wykonany.
+Uruchamianie pliku testowego: TestProfileMenu.py
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.723s
+
+OK
+Plik testowy TestProfileMenu.py został pomyślnie wykonany.
+Uruchamianie pliku testowego: TestSettingMenu.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.522s
+
+OK
+Plik testowy TestSettingMenu.py został pomyślnie wykonany.
+Uruchamianie pliku testowego: TestShowHideMenu.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.437s
+
+OK
+Plik testowy TestShowHideMenu.py został pomyślnie wykonany.
+Uruchamianie pliku testowego: TestStudyFlashcardMenu.py
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.822s
+
+OK
+Plik testowy TestStudyFlashcardMenu.py został pomyślnie wykonany.
+Uruchamianie pliku testowego: TestTimerApp.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.500s
+
+OK
+Plik testowy TestTimerApp.py został pomyślnie wykonany.
+Uruchamianie pliku testowego: TestTypeCheckMenu.py
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.773s
+
+OK
+Plik testowy TestTypeCheckMenu.py został pomyślnie wykonany.

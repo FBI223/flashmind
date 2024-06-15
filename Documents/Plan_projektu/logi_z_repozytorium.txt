@@ -1,0 +1,252 @@
+Podsumowanie:
+54  Wojtek
+44  Marcin_FBI
+39  drab111
+35  JakubPaczek
+26  Marcin
+3  FBI223
+3  Wiktor
+3  fidren
+
+
+
+Logi z GitHub:
+
+git log --all --pretty=format:'%h %an %s %d %ad' --date=iso
+8df06a9 Marcin_FBI dzialajaca aplikacja , wersja v114  (origin/exe, exe) 2024-06-08 22:12:30 +0200
+5e96daa Marcin_FBI On main: fdfgbdffgdfgdfg  (refs/stash) 2024-06-08 22:10:39 +0200
+2d16385 Marcin_FBI index on main: fe623af stara wersja notifications  2024-06-08 22:10:39 +0200
+fe623af drab111 stara wersja notifications  (HEAD -> main, origin/main, origin/HEAD) 2024-06-08 21:53:57 +0200
+6330afa drab111 final version  2024-06-08 21:42:02 +0200
+8d74e82 JakubPaczek Poprawa błędu z powatarzającymi się odpowiedziami  2024-06-08 20:20:37 +0200
+8bb44ba Marcin_FBI dzialajaca aplikacja , wersja v113  2024-06-08 18:48:47 +0200
+b477677 JakubPaczek za długa nazwa przycisku  2024-06-08 17:52:24 +0200
+9e2408e fidren Delete tests/TestMainMenu.py  2024-06-08 17:30:42 +0200
+965210f JakubPaczek refaktoryzacja studyflashcardmenu  2024-06-08 17:16:54 +0200
+be0472d JakubPaczek back_up_db komentarz  2024-06-08 16:39:12 +0200
+7454112 Wojtek Merge branch 'main' of https://github.com/fidren/flashmind  2024-06-08 16:38:05 +0200
+aed5c3e Wojtek Dodanie ExecuteAllTests  2024-06-08 16:37:43 +0200
+bb0a94c JakubPaczek Merge branch 'main' of https://github.com/fidren/flashmind  2024-06-08 16:29:00 +0200
+0d43d68 Wojtek Merge branch 'main' of https://github.com/fidren/flashmind  2024-06-08 16:28:59 +0200
+d89ab8b drab111 naprawa  (origin/test2, test2) 2024-06-08 16:28:31 +0200
+2d43ba1 Wojtek Poprawa TestDragDropMenu  2024-06-08 16:28:26 +0200
+ec9183f JakubPaczek kolejnosc funkcji  2024-06-08 16:28:10 +0200
+a05e9b1 Wojtek Dodanie TestTypeCheckMenu  2024-06-08 16:27:48 +0200
+1e7785c JakubPaczek kolejnosc funkcji  2024-06-08 16:27:47 +0200
+a44422b JakubPaczek sciezka -> db_path  2024-06-08 16:16:54 +0200
+7846db8 drab111 dodanie str  2024-06-08 16:13:14 +0200
+c0a185c Wojtek Dodanie TestTypeCheckMenu  2024-06-08 16:08:09 +0200
+03314f3 Wojtek Poprawa TestTimerApp  2024-06-08 15:33:20 +0200
+10693d5 Wojtek Dodanie TestShowHideMenu  2024-06-08 15:31:09 +0200
+0ff1410 drab111 reset stats  2024-06-08 15:15:45 +0200
+8ae2fe3 drab111 Delete EditSetMenu.py  2024-06-08 15:15:24 +0200
+ed52e05 drab111 naprawa reset stats  2024-06-08 15:15:05 +0200
+c2da7ce JakubPaczek testy kolejne (timer itd.)  2024-06-08 15:00:45 +0200
+c03138a JakubPaczek testy  2024-06-08 14:48:52 +0200
+57c6527 Wojtek Aktualizacja TestTimerApp  2024-06-08 14:39:57 +0200
+df94a35 Wojtek Merge branch 'main' of https://github.com/fidren/flashmind  2024-06-08 14:31:17 +0200
+cf4410b Wojtek Aktualizacja TestShowHideMenu  2024-06-08 14:28:05 +0200
+8c3b066 Marcin_FBI dzialajaca aplikacja , wersja v112  2024-06-08 11:13:33 +0200
+f98b69a Marcin_FBI dzialajaca aplikacja , wersja v111  2024-06-08 11:12:32 +0200
+673496b Marcin_FBI mala poprawka notifications installery  2024-06-08 11:07:45 +0200
+ce731ab Marcin_FBI mala poprawka notifications oraz srednio dzalajace installery  2024-06-08 11:06:58 +0200
+0cfbcad JakubPaczek settings fix  2024-06-07 17:21:15 +0200
+6815e49 JakubPaczek settings fix  2024-06-07 17:20:49 +0200
+b9d068e JakubPaczek import export fix  2024-06-07 17:12:50 +0200
+9d73af9 JakubPaczek timer fix  2024-06-07 17:05:06 +0200
+e43a860 JakubPaczek sett  2024-06-07 17:02:20 +0200
+4e5b293 JakubPaczek przed  2024-06-07 17:00:09 +0200
+bb94ea9 JakubPaczek oldnew  (origin/master) 2024-06-07 16:40:14 +0200
+22fc291 JakubPaczek Merge remote-tracking branch 'origin/main'  2024-06-07 16:36:09 +0200
+2739617 drab111 powrót do starej wersji importu/eksportu  2024-06-07 16:30:31 +0200
+c0f37b3 JakubPaczek fix import, timer  2024-06-07 16:28:39 +0200
+a93ae3d JakubPaczek timer fix  2024-06-07 16:18:38 +0200
+45d57e1 drab111 powrot do wczesniejszego kodu  2024-06-07 16:05:16 +0200
+b9968e8 Wojtek Niedokończony TestDragDropMenu  2024-06-07 15:39:24 +0200
+2985963 Wojtek Dodanie TestTimerApp  2024-06-07 15:17:27 +0200
+145e88a Wojtek Niedokończony TestMainMenu  2024-06-07 14:13:33 +0200
+8a59bd2 Wojtek Dodanie TestEditSetMenu  2024-06-07 13:32:02 +0200
+c490eb5 Wojtek Zmiany w nazwach metod  2024-06-07 13:18:13 +0200
+0ac58a3 Wojtek Zmiany w nazwach metod  2024-06-07 13:16:59 +0200
+78ddf03 Wojtek Poprawa TestStudyFlashcardMenu  2024-06-07 13:01:04 +0200
+ac3066a Wojtek Poprawa TestStudyFlashcardMenu  2024-06-07 12:53:34 +0200
+b54e939 Wojtek Poprawa TestSettingMenu  2024-06-07 12:25:46 +0200
+920d344 Wojtek Merge branch 'main' of https://github.com/fidren/flashmind  2024-06-07 12:22:20 +0200
+874862a Wojtek Zmiany  2024-06-07 12:21:24 +0200
+d153e7f Wojtek Poprawa TestProfileMenu  2024-06-07 12:17:36 +0200
+fadbc20 JakubPaczek komentarz  2024-06-07 11:50:03 +0200
+8227221 JakubPaczek komentarz  2024-06-07 11:48:56 +0200
+ca64461 JakubPaczek zminna  2024-06-07 11:46:32 +0200
+ade1941 JakubPaczek Twoja wiadomość commita  2024-06-07 11:43:52 +0200
+13f4699 JakubPaczek Merge branch 'main' of https://github.com/fidren/flashmind  2024-06-07 11:43:52 +0200
+6a373b9 JakubPaczek studyflashcardmenu refaktoryzacja  2024-06-07 11:39:27 +0200
+982732b JakubPaczek przerwa  2024-06-07 11:15:07 +0200
+641e470 JakubPaczek refaktoryzacja notifications  2024-06-07 11:14:31 +0200
+2f37a66 JakubPaczek Refaktoryzacja exportSelectedSets  2024-06-07 11:07:35 +0200
+6681807 FBI223 Merge remote-tracking branch 'origin/main'  2024-06-07 11:06:19 +0200
+b4886a5 FBI223 zapisywanie kolorow do bazy, poprawione set do default settings  2024-06-07 11:06:06 +0200
+f5392bb Wojtek Dodanie folderu z testami  2024-06-07 10:49:11 +0200
+a124a82 drab111 naprawa buga  2024-06-07 06:34:31 +0200
+925cab8 JakubPaczek Refaktoryzacja i bugfix'y editflashcardmenu  2024-06-06 21:53:06 +0200
+b8f21f6 JakubPaczek path fix  2024-06-06 21:43:36 +0200
+d46f540 JakubPaczek refaktoryzacja flashcardapp.py  2024-06-06 21:18:08 +0200
+5c31c3d JakubPaczek Zmienne ustawień domyslnych  2024-06-06 21:04:34 +0200
+7b3e72b JakubPaczek sciezka do grafik  2024-06-06 20:56:26 +0200
+8d854ab JakubPaczek zmienna timer_enabled  2024-06-06 20:55:58 +0200
+80a2a32 JakubPaczek color zamiast colour dla spójności  2024-06-06 20:47:07 +0200
+dc816f7 JakubPaczek DEfault button  2024-06-05 19:53:12 +0200
+ea0479b JakubPaczek Refaktoryzacja EditSetMenu.py  2024-06-05 19:36:16 +0200
+7bd1aa4 JakubPaczek Refaktoryzacja mainMenu.py  2024-06-05 19:10:52 +0200
+ffc3458 JakubPaczek usuniecie sciezki do bazy  2024-06-05 17:33:50 +0200
+fd2e5f2 JakubPaczek ProfileMenu.py fix  2024-06-05 17:32:45 +0200
+20a28f0 JakubPaczek Query database def  2024-06-05 17:20:15 +0200
+653fb38 JakubPaczek Refaktoryzacja profilemenu.py  2024-06-05 15:07:37 +0200
+36b04a4 JakubPaczek label background color fix  2024-06-05 14:44:27 +0200
+f428b3a JakubPaczek Poprawa kodu, komentarze  2024-06-05 14:37:44 +0200
+3a3f818 JakubPaczek Dodanie innych rozdzielczości  2024-06-05 13:59:51 +0200
+107b64c JakubPaczek Zmiana rozdzielczości przy pełnym ekranie fix  2024-06-05 13:39:16 +0200
+c1333c0 Wojtek Aktualizacja motywów  2024-06-04 19:37:51 +0200
+561cb10 drab111 naprawa restore  2024-06-04 17:02:35 +0200
+3778bd0 drab111 naprawa buga w Type & Check  2024-06-04 16:29:27 +0200
+2a59e80 Wojtek Refaktoryzacja kodu FlashcardApp  2024-06-04 16:07:19 +0200
+7c85d6e Wojtek Refaktoryzacja kodu Drag&Drop  2024-06-04 15:47:07 +0200
+f38d059 Wojtek Refaktoryzacja kodu Drag&Drop  2024-06-04 15:45:32 +0200
+bc9225d drab111 naprawa buga w Show & Hide  2024-06-02 13:17:24 +0200
+a6173d2 Wojtek Poprawa przycisków  2024-06-01 22:11:58 +0200
+7d763c0 Wojtek Refaktoryzacja kodu TypeCheckMenu  2024-06-01 15:49:51 +0200
+8d74956 Wojtek Refaktoryzacja kodu TimerApp  2024-06-01 15:25:06 +0200
+b4d3d96 Wojtek Refaktoryzacja kodu StudyFlashcardMenu  2024-06-01 15:24:02 +0200
+451ba73 Wojtek Refaktoryzacja kodu ShowHideMenu  2024-06-01 14:55:41 +0200
+e91678b Wojtek Refaktoryzacja kodu ShowHideMenu  2024-06-01 14:34:02 +0200
+506ae48 Wojtek Aktualizacja bazy danych  2024-06-01 14:24:12 +0200
+a0b093a Wojtek Aktualizacja bazy danych  2024-06-01 14:22:21 +0200
+e15ff46 Marcin_FBI v109 do poprawy interfejs drag and drop !!!!!  2024-05-31 23:55:17 +0200
+b3976f9 Marcin_FBI Merge remote-tracking branch 'origin/main'  2024-05-31 23:06:40 +0200
+bdb9862 Marcin_FBI v108 poprawione interfejsy uczenia sie ( dluzsze fiszki )  2024-05-31 22:59:36 +0200
+3e9d356 Wojtek Refaktoryzacja kodu ProfileMenu  2024-05-31 22:26:45 +0200
+13d86e2 Wojtek Refaktoryzacja kodu MainMenu  2024-05-31 22:14:18 +0200
+d093671 Wojtek Refaktoryzacja kodu MainMenu  2024-05-31 22:13:52 +0200
+3f7c12b Wojtek Refaktoryzacja kodu ExportSelectedSets  2024-05-31 21:48:57 +0200
+c4d049f Wojtek Refaktoryzacja kodu EditSetMenu  2024-05-31 21:45:10 +0200
+3ceeaf8 Wojtek Refaktoryzacja kodu EditFlashCardMenu  2024-05-31 21:33:31 +0200
+d1e38cf Wojtek przyjecie bazy danych z githuba  2024-05-31 21:06:23 +0200
+1e48a2f Wojtek Przed pullem  2024-05-31 21:02:33 +0200
+25f5501 Marcin_FBI v106 wycentrowany tekst w przyciskach w drag and drop ( std biblioteka TK a nie TTK )  2024-05-31 20:11:14 +0200
+e7b06c8 Marcin_FBI v105 drag and drop show_answer bylo zle wczesniej ???? tsoo?  2024-05-31 20:04:44 +0200
+25ae13d drab111 v104  2024-05-31 19:34:22 +0200
+b2c0c2a drab111 Delete flash_mind_v1/DragDropMenu_marcin_wiktor.py  2024-05-31 19:31:22 +0200
+15ca733 Marcin v103.1 drag n drop zegar fix  2024-05-31 17:03:53 +0200
+af5a3fa Marcin v103 timer plus interfejsy fixes  2024-05-31 16:04:04 +0200
+429a1bb Wojtek Poprawa drag&drop  2024-05-31 14:20:28 +0200
+494c969 Wojtek Rozwiązanie konfliktu  2024-05-31 12:50:55 +0200
+8571d86 Wojtek Zmiany przed pull  2024-05-31 12:47:51 +0200
+2a80cc1 Marcin_FBI v102 usuniecie exe plikow i mala zmiana w notifications  2024-05-31 10:49:26 +0200
+5f82834 drab111 poprawka  (origin/test) 2024-05-30 23:07:13 +0200
+7c4ef3d drab111 poprawka  2024-05-30 23:06:24 +0200
+c5fd055 drab111 profilemenu poprawione  2024-05-30 22:33:52 +0200
+0f34a62 drab111 profilemenu poprawione  2024-05-30 22:33:20 +0200
+96e5c75 drab111 Delete ProfileMenu.py  2024-05-30 22:03:43 +0200
+c3a3f9d drab111 Add files via upload  2024-05-30 22:01:17 +0200
+7caa73a drab111 poprawka  2024-05-30 21:57:59 +0200
+2f22cd4 drab111 poprawka  2024-05-30 21:57:18 +0200
+948c7a3 Wojtek Resolved merge conflict by keeping remote version of fiszki.db  2024-05-30 19:25:37 +0200
+8e0e4b9 Wojtek Przed pull  2024-05-30 19:20:34 +0200
+ee7ba0b Marcin_FBI v100 final exe_folder jest dla klienta  2024-05-30 18:52:04 +0200
+84c9bda Marcin_FBI v100 final  2024-05-30 18:48:50 +0200
+9125217 Marcin Merge pull request #1 from fidren/separated  2024-05-30 18:44:48 +0200
+1259052 Marcin_FBI v0  2024-05-30 18:37:19 +0200
+ca76587 Marcin_FBI v2  (origin/separated, separated) 2024-05-30 18:25:00 +0200
+8cea615 Marcin_FBI v1  2024-05-30 18:23:30 +0200
+a92d6e9 Marcin_FBI v42  (test) 2024-05-30 18:08:20 +0200
+72fa656 Marcin Delete .gitignore  2024-05-30 18:03:59 +0200
+a5f04de Marcin Delete notifications.py  2024-05-30 18:03:39 +0200
+a063a27 Marcin Delete main.py  2024-05-30 18:03:32 +0200
+8bbb475 Marcin Delete notification_with_click.py  2024-05-30 18:03:22 +0200
+65c3671 Marcin Delete reminder.py  2024-05-30 18:03:13 +0200
+4b0e296 Marcin Delete fiszki.db  2024-05-30 18:02:30 +0200
+7cfb44b Marcin Delete images directory  2024-05-30 18:02:06 +0200
+2b5dff3 Marcin_FBI v0  2024-05-30 18:00:09 +0200
+0cabd7e drab111 v42 poprawki  2024-05-30 15:12:20 +0200
+35f26b5 Marcin_FBI v41 notification fixes  2024-05-30 13:48:05 +0200
+27dc9f5 Marcin_FBI Merge remote-tracking branch 'origin/test' into test  2024-05-30 13:22:09 +0200
+9b76906 Marcin_FBI v40 notification obrazki  2024-05-30 13:21:47 +0200
+efa6af7 Marcin Delete main.exe  2024-05-30 13:19:17 +0200
+56283af Marcin Delete notifications.exe  2024-05-30 13:18:54 +0200
+05129c7 Marcin Delete settings.png  2024-05-30 13:18:40 +0200
+b9521af Marcin Delete reminder.exe  2024-05-30 13:18:27 +0200
+eac5dca Marcin Delete study.png  2024-05-30 13:18:14 +0200
+96a1b19 Marcin Delete profile.png  2024-05-30 13:18:03 +0200
+216ec0e Marcin Delete fiszki2.db  2024-05-30 13:17:45 +0200
+100b7a6 Marcin logo aplikacji png added  2024-05-30 13:17:28 +0200
+4c70426 Marcin Delete obraz2.png  2024-05-30 13:16:53 +0200
+c8009d5 Marcin Delete icon2.ico  2024-05-30 13:15:59 +0200
+12b90e8 Marcin Delete fiszki_back_up.db  2024-05-30 13:15:51 +0200
+afa606d Marcin Delete edit_flashcard.png  2024-05-30 13:15:38 +0200
+c43454c Marcin Delete edit.png  2024-05-30 13:15:26 +0200
+3c60a96 Marcin_FBI v39 dzielenie plikow do folderow / porzadki  2024-05-30 13:14:37 +0200
+ea586bc Marcin_FBI v37.1 notification dziala , wazne aby plik exe byl w glownym folderze  2024-05-30 12:01:59 +0200
+a4ec3cb Marcin_FBI v37 notification dziala , wazne aby plik exe byl w glownym folderze  2024-05-30 03:48:50 +0200
+18139eb Marcin_FBI v37 notification.py all in one notifications , przerobic na exe i ustawic skrypt powershell do urtuchamiania podczas startu win  2024-05-30 02:27:58 +0200
+eab9d87 Marcin_FBI Merge remote-tracking branch 'origin/test' into test  2024-05-30 02:26:43 +0200
+fccfb9d Marcin_FBI v36 dodanie export do json  2024-05-30 02:26:17 +0200
+ab05970 drab111 v36 nowa baza danych  2024-05-30 02:24:59 +0200
+3f2c69d Marcin_FBI v35.2 fiszki db update  2024-05-30 01:26:12 +0200
+a919198 Marcin_FBI v35, dodana flaga w bazie danycg , usuniety pezycisk reset all  2024-05-29 18:53:00 +0200
+5820559 Wojtek Zmiany w wyglądzie przycisków  2024-05-29 17:00:20 +0200
+3425a32 Wojtek Zmiany w wyglądzie  2024-05-29 16:58:49 +0200
+77f8821 Marcin_FBI v34.1  2024-05-29 15:35:39 +0200
+90f21a2 Marcin_FBI v34, dzialajacy back-up oraz restore  2024-05-29 15:32:10 +0200
+3053fbb Wojtek Zmiany w kodzi po pull  2024-05-29 13:59:29 +0200
+a13fc0a Wojtek Dodanie obrazków do przycisków w menu głównym  2024-05-29 13:57:15 +0200
+f121c36 drab111 v33 poprawa importu  2024-05-29 13:39:03 +0200
+e9c7a91 Wojtek Commit przed pull  2024-05-29 12:18:13 +0200
+35c0439 FBI223 v33 , dodany primary key w Zbiory  2024-05-29 11:30:27 +0200
+4738a2b drab111 v32.1 import  2024-05-29 03:59:02 +0200
+297a6e1 drab111 v32 eksport  2024-05-29 03:56:52 +0200
+309d2f7 Wiktor Merge branch 'test' of https://github.com/fidren/flashmind into test  2024-05-29 00:00:16 +0200
+f9c0826 Wiktor v31.1  2024-05-28 23:58:59 +0200
+ff4c562 drab111 v31 eksport bazy danych  2024-05-28 23:52:51 +0200
+e76f81f Wiktor v31 eksport danych  2024-05-28 23:49:58 +0200
+ef4425c drab111 Add files via upload  2024-05-28 20:20:04 +0200
+b564d38 drab111 Delete icon.ico  2024-05-28 20:19:28 +0200
+9e3aeb6 drab111 Delete obraz.png  2024-05-28 20:19:15 +0200
+c1c54dc Marcin_FBI v30, fix bledu powiadomien, import export , menu exportu , zakladka exportu u gory  2024-05-28 16:26:49 +0200
+94c3723 Marcin_FBI v29 dodana ikonka do gornego paska i obrazek w main menu  2024-05-28 11:26:17 +0200
+9974cb1 Marcin_FBI v28 powiadomienia ktore po kliknieciu przchodza da apki , styl windows pop ups  2024-05-28 11:09:17 +0200
+b06c91d Marcin_FBI v27 dzialajace powiadomienia bez opcji przechodzenia do aplikacji po kliknieciu  2024-05-28 10:53:59 +0200
+91c5749 Marcin v26 powiadomienia dodane  2024-05-28 02:53:27 +0200
+1f67e33 drab111 v25 nowa baza danych i powiadomienia  2024-05-28 01:22:26 +0200
+db465ad drab111 v24  2024-05-27 23:49:42 +0200
+cec8fca Marcin_FBI v24 , synchronizacja przydzielania punktow z zegareMMmmmmmmmmm  2024-05-27 23:23:53 +0200
+7450cca Marcin_FBI v23 , dzialajacy zegar  2024-05-27 22:36:45 +0200
+793c087 Marcin_FBI v22 , cytaty w main menu z bazy , fix set back ground color  2024-05-27 16:50:51 +0200
+8af08ba drab111 v21 Check answer, Reset button  2024-05-27 15:50:59 +0200
+7de5d59 drab111 Aktualizacja TODO  2024-05-27 00:21:19 +0200
+937e268 drab111 v20 działa Profile, statystyki, tryb grywalizacji  2024-05-27 00:20:30 +0200
+9bcf9cf drab111 v19  2024-05-26 22:39:30 +0200
+743f738 Marcin_FBI v18, zrobione CALE menu do drag and drop , dopracowane tylko show answer zrob  2024-05-26 17:55:42 +0200
+e967ace drab111 v17  2024-05-26 15:18:26 +0200
+56dde0b Marcin_FBI v16 , zmiana koloru tla , przygotowanie do robienia ostatniego frame, male fixy  2024-05-26 12:18:59 +0200
+cdd748c drab111 Delete todo.txt  2024-05-26 01:58:25 +0200
+11155a2 drab111 Delete opis.txt  2024-05-26 01:58:09 +0200
+8c1f080 drab111 Wymagania funkcjonalne (TODO)  2024-05-26 01:56:45 +0200
+b9fa9d7 drab111 v15  2024-05-26 01:48:57 +0200
+176525c drab111 v14  2024-05-25 16:49:56 +0200
+ba8dfe7 Marcin v13 restrukturyzacja kodu  2024-05-25 15:25:19 +0200
+b350471 Marcin_FBI v12.1 , male fixy zerowania wyborow uzytkownika  2024-05-22 23:55:38 +0200
+8d8a212 Marcin_FBI v12 , autouzupelnianie pola entry oraz zerowanie zawartosci pola jak juz przeprowadzimy operacje ( delete / update czy goback ( menu ))  2024-05-22 22:15:17 +0200
+18a1935 Marcin_FBI v11 , dobrze dziala zmiana czcionki , zmienia wszedzie i zachowuje rozmiar oraz  pare nowych guzikow  2024-05-22 18:46:43 +0200
+b1d5f5f fidren v10  2024-05-21 21:16:14 +0200
+df70cc1 Marcin_FBI v9 , modyfikacje czcionek / baza danych  2024-05-21 18:46:00 +0200
+6fa0710 Marcin_FBI v8 , czcionki dodane / modyfikacje czcionek  2024-05-21 18:35:29 +0200
+55e59e6 drab111 v7 Edit Set i Edit Flashcards skończone  2024-05-21 17:15:23 +0200
+474cf4e drab111 v6  2024-05-21 01:23:30 +0200
+28b1002 drab111 v5  2024-05-20 23:09:22 +0200
+4fc3e8a Marcin_FBI v4, fixing gui , positions , and added few buttons and labels , LETS GO!  2024-05-20 19:29:32 +0200
+e453fec Marcin_FBI v3, small fixes  2024-05-20 00:31:30 +0200
+1b28bae Marcin_FBI v2  2024-05-19 16:53:10 +0200
+a54a060 Marcin_FBI v1  2024-05-19 14:58:43 +0200
+03df825 Marcin_FBI v1  2024-05-19 14:58:12 +0200
+4c2688f Marcin_FBI ulepszenie glwonego menu  2024-05-19 14:57:43 +0200
+6e20c2e Marcin przykladowy| interfejs / uproszczony interfejs  2024-05-19 12:25:31 +0200
+82fbb1c fidren Initial commit  (final) 2024-05-11 13:59:43 +0200
